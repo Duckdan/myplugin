@@ -1,0 +1,2 @@
+include ':app', ':androidPlugin', ':framework_vcodeless'
+rootProject.name='vcodeless'
